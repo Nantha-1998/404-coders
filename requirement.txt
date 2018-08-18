@@ -1,0 +1,3 @@
+install the libraries needed.......
+pandas,sklearn,matplotlib...in anaconda ide
+use jupiter notebook
